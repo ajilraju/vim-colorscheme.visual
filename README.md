@@ -54,7 +54,7 @@
 ![morning.png](./images/morning.png)
 
 ## murhpy ```:colorscheme murhpy```
-![murhpy.png](./images/murhpy.png)
+![murhpy.png](./images/murphy.png)
 
 ## pablo ```:colorscheme pablo```
 ![pablo.png](./images/pablo.png)
