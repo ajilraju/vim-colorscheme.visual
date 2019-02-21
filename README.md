@@ -22,4 +22,4 @@
 - zellner 
 
 ## Colorscheme preview
-
+![blue.png](./images/blue.png)
