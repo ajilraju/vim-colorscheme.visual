@@ -22,4 +22,17 @@
 - zellner 
 
 ## Colorscheme preview
+```:colorscheme blue```
 ![blue.png](./images/blue.png)
+
+```:colorscheme darkblue```
+![darkblue.png](./images/darkblue.png)
+
+```:colorscheme default```
+![default.png](./images/default.png)
+
+```:colorscheme delek```
+![delek.png](./images/delek.png)
+
+```:colorscheme desert```
+![desert.png](./images/desert.png)
