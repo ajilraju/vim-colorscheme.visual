@@ -37,3 +37,43 @@
 
 ## desert ```:colorscheme desert```
 ![desert.png](./images/desert.png)
+
+## elflord ```:colorscheme elflord```
+![elflord.png](./images/elflord.png)
+
+## evening ```:colorscheme evening```
+![evening.png](./images/evening.png)
+
+## industry ```:colorscheme industry```
+![industry.png](./images/industry.png)
+
+## koehler ```:colorscheme desert```
+![koehler.png](./images/koehler.png)
+
+## morning ```:colorscheme morning```
+![morning.png](./images/morning.png)
+
+## murhpy ```:colorscheme murhpy```
+![murhpy.png](./images/murhpy.png)
+
+## pablo ```:colorscheme pablo```
+![pablo.png](./images/pablo.png)
+
+## peachpuff ```:colorscheme peachpuff```
+![peachpuff.png](./images/peachpuff.png)
+
+## ron ```:colorscheme ron```
+![ron.png](./images/ron.png)
+
+## shine ```:colorscheme shine```
+![shine.png](./images/shine.png)
+
+## slate ```:colorscheme slate```
+![slate.png](./images/slate.png)
+
+## torte ```:colorscheme torte```
+![torte.png](./images/torte.png)
+
+## zellner ```:colorscheme zellner```
+![zellner.png](./images/zellner.png)
+
