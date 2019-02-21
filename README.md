@@ -21,18 +21,24 @@
 - torte 
 - zellner 
 
-## Colorscheme preview
+# colorscheme preview 
+
+## blue
 ```:colorscheme blue```
 ![blue.png](./images/blue.png)
 
+## darkblue
 ```:colorscheme darkblue```
 ![darkblue.png](./images/darkblue.png)
 
+## default
 ```:colorscheme default```
 ![default.png](./images/default.png)
 
+## delek
 ```:colorscheme delek```
 ![delek.png](./images/delek.png)
 
+## desert
 ```:colorscheme desert```
 ![desert.png](./images/desert.png)
