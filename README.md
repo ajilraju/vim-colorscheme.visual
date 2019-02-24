@@ -1,8 +1,9 @@
 # Vim  prepackaged colorscheme &#x1F535; &#x1F534; &#x1F49A; &#x1F49C;.
 Vim comes with 16 prepackaged colorscheme which is well in **_Vi IMproved 7.4_** since I'm using this version. You can hook with this colorscheme simply use 
-> ```:colorscheme <colorname> ```
+> >```:colorscheme <colorname> ``` 
   
-> Permanent to vim workspace edit the .vimrc
+> Permanent to vim workspace edit the .vimrc.
+
 > >```color <colorname>```
 
 ### List of colorscheme ```<colorname>```
